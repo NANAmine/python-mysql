@@ -1,3 +1,3 @@
 # python-mysql
-这是一个python连接操作mysql数据库shell脚本
+这是一个python连接操作mysql数据库shell脚本只需要修改数据库连接地址，安装Python依赖即可使用
 Python版本是3.6
